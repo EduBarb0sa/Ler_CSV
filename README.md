@@ -1,0 +1,1 @@
+"Embora meu conhecimento de Python seja básico, sinto um orgulho imenso do código que desenvolvi. Mesmo não sendo complexo, sei que terá um impacto positivo na rotina das pessoas na minha empresa. É gratificante ver como algo simples pode fazer a diferença. Estou animado para compartilhar e implementar essa solução que desenvolvi!"
